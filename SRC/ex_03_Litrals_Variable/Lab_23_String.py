@@ -1,0 +1,5 @@
+value=input("Enter the number")
+print(value)
+print(type(value))
+print(len(value))
+print(value.upper())
